@@ -23,9 +23,11 @@ This Script is for everyone, not for Sale. Jika dijual neraka menunggumu brother
 $ apt update && apt upgrade
 $ apt install git -y
 $ apt install nodejs -y
+$ apt install yarn
+$ apt install imagemagick
 $ apt install ffmpeg -y
 $ git clone https://github.com/darkbotzmd/Dark-Botz-MD
 $ cd Dark-Botz-MD
-$ npm install
+$ npm install / yarn
 $ node .
 ```
