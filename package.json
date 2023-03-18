@@ -10,7 +10,7 @@
   "keywords": [
     "termux",
     "whatsapp",
-    "2021",
+    "2023",
     "wabase-md",
     "base",
     "baileys-md",
@@ -21,7 +21,7 @@
   "author": "Akira",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "github:pst4r8/baileys",
+    "@adiwajshing/baileys": "^5.5.0",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^4.0.22-alpha.0",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
